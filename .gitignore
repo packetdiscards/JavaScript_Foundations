@@ -1,0 +1,51 @@
+# Test Content
+Test_Content/
+
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+tmp/
+temp/
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Coverage and test output
+coverage/
+.nyc_output/
+
+# Build output
+dist/
+build/
+out/
+*.tgz
+
+# Caches
+.cache/
+.parcel-cache/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional (Yarn PnP)
+.pnp.*
+.pnp.js
